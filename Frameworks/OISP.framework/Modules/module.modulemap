@@ -1,0 +1,6 @@
+framework module OISP {
+  umbrella header "OISP.h"
+
+  export *
+  module * { export * }
+}
